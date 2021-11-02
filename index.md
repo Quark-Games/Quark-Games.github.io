@@ -1,6 +1,16 @@
 ## Downloads
 
-[Crazy Spin](https://quarkgames.itch.io/crazy-spin)
+#### [Crazy Spin](https://quarkgames.itch.io/crazy-spin)
+
+Classic pong game?
+
+**No!**
+
+There is *more* than that.
+
+A giant creature living in the jungle might pop up and steal your pong. Floating asteroids in endless space might drag your pong to mysterious curves...
+
+Above all, the ball turns **madly** in this game.
 
 ## Github Repositories
 
