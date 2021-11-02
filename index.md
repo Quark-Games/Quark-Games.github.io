@@ -51,6 +51,11 @@
 
 [KevinM321](https://github.com/KevinM321)
 
+Lynda Li
+
 [YuepingLing](https://github.com/YuepingLing)
 
 [zwang20](https://github.com/zwang20)
+
+> Also known as Michael, this member is best known for submitting questionable code and creating cringeworthy descriptions.
+
