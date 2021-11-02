@@ -2,7 +2,7 @@
 
 [Crazy Spin](https://quarkgames.itch.io/crazy-spin)
 
-# Github Repos
+## Github Repositories
 
 [Quark-Games/YEquals](https://github.com/Quark-Games/YEquals)
 
@@ -15,4 +15,13 @@
 ## About Us
 
 ### Organisation Owner
-[Edward Ji](https://github.com/Edward-Ji)
+
+[Edward-Ji](https://github.com/Edward-Ji)
+
+### Organisation Members
+
+[AndyWang9797](https://github.com/AndyWang9797)
+[jeffsui1412](https://github.com/jeffsui1412)
+[KevinM321](https://github.com/KevinM321)
+[YuepingLing](https://github.com/YuepingLing)
+[zwang20](https://github.com/zwang20)
