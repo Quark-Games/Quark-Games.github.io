@@ -1,3 +1,1 @@
-![Logo](logo.png)
-# Quark Games
-[Home](index.md) [Downloads](downloads.md) [Github Repositories](repos.md)
+A group of uni students with a passion for app development.
