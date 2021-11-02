@@ -14,21 +14,21 @@
 
 ## Github Repositories
 
-[Quark-Games/YEquals](https://github.com/Quark-Games/YEquals)
+[YEquals](https://github.com/Quark-Games/YEquals)
 
 > This python grapher created by Quark Games in 2018 is complete with minimalist design and straightforward algorithms.
 
-[Quark-Games/TankWar](https://github.com/Quark-Games/TankWar)
+[TankWar](https://github.com/Quark-Games/TankWar)
 
 > Two players control two tanks and compete for the ultimate prize.
 > They need to adjust the barrel angle and power to obtain the maximum accuracy.
 > The one who destory the other will win, featuring fascinating special effects.
 
-[Quark-Games/Quark-Games.github.io](https://github.com/Quark-Games/Quark-Games.github.io)
+[Quark-Games.github.io](https://github.com/Quark-Games/Quark-Games.github.io)
 
 > This permanent official webiste of Quark Games features the latest state-of-the-art innovations.
  
-[Quark-Games/Don-t-Die](https://github.com/Quark-Games/Don-t-Die)
+[Don-t-Die](https://github.com/Quark-Games/Don-t-Die)
 
 > A aerial view open-world survival game inspired by other similar games in this genre.
 
